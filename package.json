@@ -1,0 +1,55 @@
+{
+    "private": true,
+    "name": "@cutepilot/eslint-config",
+    "version": "2.0.0",
+    "description": "Common ESLint config for CutePilot projects",
+    "repository": "cutepilot/eslint-config",
+    "author": "Onur Yildirim <onur@cutepilot.com>",
+    "contributors": [
+        "Onur Yıldırım <onur@cutepilot.com>"
+    ],
+    "license": "SEE LICENSE IN LICENSE",
+    "engines": {
+        "node": ">=16",
+        "npm": ">=9"
+    },
+    "cutepilot": {
+        "type": "module",
+        "dependencies": {}
+    },
+    "files": [
+        "index.js",
+        "ts.js",
+        "_common.js",
+        "package.json",
+        "LICENSE",
+        "README.md"
+    ],
+    "keywords": [
+        "eslint",
+        "lint",
+        "javascript",
+        "typescript",
+        "js",
+        "ts",
+        "config",
+        "configuration"
+    ],
+    "dependencies": {
+        "@typescript-eslint/eslint-plugin": "^7.14.1",
+        "@typescript-eslint/parser": "^7.14.1",
+        "eslint-plugin-import": "^2.29.1",
+        "eslint-plugin-jsdoc": "^48.5.0",
+        "eslint-plugin-no-null": "^1.0.2",
+        "eslint-plugin-prefer-arrow": "^1.2.3",
+        "eslint-plugin-unicorn": "^54.0.0"
+    },
+    "peerDependencies": {
+        "eslint": ">=8",
+        "typescript": ">=4"
+    },
+    "devDependencies": {
+        "eslint": "8.57",
+        "typescript": "^5.5.2"
+    }
+}

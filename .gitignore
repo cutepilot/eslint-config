@@ -1,0 +1,12 @@
+backup/
+wiki/
+node_modules/
+dist/
+.tscache
+src*.zip
+build*.zip
+.DS_Store
+npm-debug.log
+test/coverage/
+test/tmp/
+TODO.md
