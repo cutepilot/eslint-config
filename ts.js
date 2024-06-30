@@ -383,6 +383,6 @@ module.exports = {
                 memberVariableDeclaration: true,
             },
         ],
-        'arrow-body-style': ['error', 'as-needed'],
+        'arrow-body-style': 'off',
     },
 };

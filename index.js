@@ -28,13 +28,7 @@ module.exports = {
         'eslint:recommended'
     ],
     rules: {
-        'arrow-body-style': [
-            'error',
-            'as-needed',
-            {
-                requireReturnForObjectLiteral: true
-            }
-        ],
+        'arrow-body-style': 'off',
         'arrow-parens': [
             'error',
             'as-needed'
