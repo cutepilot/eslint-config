@@ -1,15 +1,14 @@
 ## `@cutepilot/eslint-config`
 
-Shared [ESLint config](https://eslint.org) for Eşarj projects.  
+Common [ESLint config](https://eslint.org) for CutePilot projects.  
 *(Lints both JavaScript & TypeScript projects.)*
 
-***Note 1**: Do NOT change the defined eslint rules without consulting the team first.*  
-***Note 2**: When clonning to your local, place this project under `/@cutepilot/modules` directory.*
+***Note**: Do NOT change the defined eslint rules without consulting the team first.*  
 
 ### Installation
 
 ```
-$ npm install --save-dev github:cutepilot/eslint-config
+$ npm i -D github:cutepilot/eslint-config
 ```
 
 ### Usage

@@ -2,16 +2,16 @@
     "private": true,
     "name": "@cutepilot/eslint-config",
     "version": "2.0.0",
-    "description": "Common ESLint config for CutePilot projects",
+    "description": "Common ESLint config",
     "repository": "cutepilot/eslint-config",
     "author": "Onur Yildirim <onur@cutepilot.com>",
     "contributors": [
         "Onur Yıldırım <onur@cutepilot.com>"
     ],
-    "license": "SEE LICENSE IN LICENSE",
+    "license": "MIT",
     "engines": {
         "node": ">=16",
-        "npm": ">=9"
+        "npm": ">=8"
     },
     "cutepilot": {
         "type": "module",
