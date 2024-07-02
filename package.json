@@ -1,6 +1,6 @@
 {
   "name": "@cutepilot/eslint-config",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Common ESLint config for CutPilot projects.",
   "repository": "cutepilot/eslint-config",
   "author": "Onur Yildirim <onur@cutepilot.com>",
