@@ -10,7 +10,7 @@ module.exports = {
     }
   ],
   INDENT: [
-    'error',
+    'warn',
     2,
     {
       // ignoredNodes: [],
